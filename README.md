@@ -4,6 +4,7 @@ Extractting and automatic typing of ECUAPASS docs.
 Main program is a Java GUI that calls a Python server running a flask and selenium webdriver.
 
 ## LOG
+Jun/19: r0.923. Added image-text-terrestre to resources/images
 Jun/19: r0.922. Srv: run first webdriver. Bot: added image-texto-terrestre. Gui: Improved message.
 Jun/16: r0.921. Updated bat files to Bot3
 Jun/16: r0.920. BOT3: Improved fillBoxCheck (No check). Improved fillSubject using waitForInfo
