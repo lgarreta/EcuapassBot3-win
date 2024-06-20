@@ -2,7 +2,8 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
-Jun/20: r0.912: Added headless
+Jun/20: r0.911: GUI: Port waiting incremented to 10.
+Jun/20: r0.912: CodebinBot: restored --headless property
 Jun/19: r0.911: Added waits to bot
 Jun/13: r0.910: Full Test: docs and bot. Added return messages for response handlin. Fixed printx.
 Jun/12: r0.908: controller.out withing a invokeLater
