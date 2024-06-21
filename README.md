@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+Jun/21: r0.912: Adapted for LOGITRANS
 Jun/20: r0.911: GUI: Port waiting incremented to 10.
 Jun/20: r0.912: CodebinBot: restored --headless property
 Jun/19: r0.911: Added waits to bot
