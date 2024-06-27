@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+Jun/26: r0.922. INFO: Working for LOGITRANS. BOT: Restores BOT3 fillBoxCheck. 
 Jun/21: r0.912: Adapted for LOGITRANS
 Jun/20: r0.911: GUI: Port waiting incremented to 10.
 Jun/20: r0.912: CodebinBot: restored --headless property
