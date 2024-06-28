@@ -2,6 +2,7 @@
 Extracción y digitación automática de docuentos de cartaportes.
 
 ## LOG
+Jun/27: r0.923. Fixed last update (BOT: slepp instead waitFor, BOTM:sleeps, BOTC:sleeps)
 Jun/26: r0.922. INFO: Working for LOGITRANS. BOT: Restores BOT3 fillBoxCheck. 
 Jun/21: r0.912: Adapted for LOGITRANS
 Jun/20: r0.911: GUI: Port waiting incremented to 10.
